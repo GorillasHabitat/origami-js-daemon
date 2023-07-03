@@ -1,0 +1,16 @@
+{
+  "name": "origami-js-daemon",
+  "version": "1.0.0",
+  "module": "examples/index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "simple": "node examples/simple.js",
+    "pub-sub-event-emitter": "node examples/pub-sub-event-emitter.js"
+  },
+  "dependencies": {
+    "@open-oracle-origami/origami-js-mill-coinbase": "^1.0.2",
+    "@open-oracle-origami/origami-js-museum-console": "^1.0.2",
+    "@open-oracle-origami/origami-js-sdk": "^1.6.3"
+  }
+}
