@@ -11,6 +11,7 @@
   "dependencies": {
     "@open-oracle-origami/origami-js-mill-coinbase": "^1.0.2",
     "@open-oracle-origami/origami-js-museum-console": "^1.0.2",
-    "@open-oracle-origami/origami-js-sdk": "^1.6.3"
+    "@open-oracle-origami/origami-js-sdk": "^1.6.3",
+    "prettier": "^2.8.8"
   }
 }
